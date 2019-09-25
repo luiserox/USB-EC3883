@@ -49,3 +49,5 @@ Para el miércoles  de la semana 3 deben estar listas las siguientes actividades
 01 | xxxxx xxxx | xx-xxxxx | xxx
 02 | xxxxx xxxx | xx-xxxxx | xxx
 02 | xxxxx xxxx | xx-xxxxx | xxx
+07 | Luis Ruiz  | 14-10989 | [@luiserox](https://github.com/luiserox)
+07 | Jesús Guillén | 14-10460 | [@14-10460](https://github.com/14-10460)
